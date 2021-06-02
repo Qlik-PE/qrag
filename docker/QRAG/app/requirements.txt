@@ -2,7 +2,7 @@ flask==1.1.1
 glom==20.8.0
 grpcio==1.30.0
 protobuf==3.13.0
-urllib3==1.25.10
+urllib3==1.26.5
 websocket==0.2.1
 websocket-client==0.57.0
 requests==2.24.0
